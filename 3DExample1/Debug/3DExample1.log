@@ -1,0 +1,56 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(995,5): warning MSB8027: Two or more files with the name of GLee.c will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\GLee.c, ..\shared\GLee.c.
+  main.cpp
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(116,19): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(116,16): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(171,82): warning C4244: 'argument': conversion from '_Ty' to 'GLint', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(171,82): warning C4244:         with
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(171,82): warning C4244:         [
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(171,82): warning C4244:             _Ty=GLfloat
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(171,82): warning C4244:         ]
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(171,65): warning C4244: 'argument': conversion from '_Ty' to 'GLint', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(171,65): warning C4244:         with
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(171,65): warning C4244:         [
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(171,65): warning C4244:             _Ty=GLfloat
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(171,65): warning C4244:         ]
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(171,48): warning C4244: 'argument': conversion from '_Ty' to 'GLint', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(171,48): warning C4244:         with
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(171,48): warning C4244:         [
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(171,48): warning C4244:             _Ty=GLfloat
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(171,48): warning C4244:         ]
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(179,76): warning C4244: 'argument': conversion from '_Ty' to 'GLint', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(179,76): warning C4244:         with
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(179,76): warning C4244:         [
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(179,76): warning C4244:             _Ty=GLfloat
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(179,76): warning C4244:         ]
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(179,59): warning C4244: 'argument': conversion from '_Ty' to 'GLint', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(179,59): warning C4244:         with
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(179,59): warning C4244:         [
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(179,59): warning C4244:             _Ty=GLfloat
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(179,59): warning C4244:         ]
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(179,42): warning C4244: 'argument': conversion from '_Ty' to 'GLint', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(179,42): warning C4244:         with
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(179,42): warning C4244:         [
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(179,42): warning C4244:             _Ty=GLfloat
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(179,42): warning C4244:         ]
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(185,24): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(190,19): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(209,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(212,56): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(215,13): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(221,13): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(394,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(395,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(405,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(406,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(415,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(416,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(425,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(426,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(435,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(436,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(445,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(446,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(462,11): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\main.cpp(463,12): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+  3DExample1.vcxproj -> C:\Users\Jan Mark\Documents\Uni\3DG\Textures Tutorial\Debug\3DExample1.exe
